@@ -1,0 +1,65 @@
+@charset "utf-8"; 
+
+body{   
+background-color:rgb(141, 185, 185);
+
+
+}
+h1{
+    background-color: 
+    bisque;
+    font-size: 100PX;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 50PX;
+    text-align: center;
+  
+    background-color: bisque;
+
+}
+.BANNER img {
+   display: block;
+   border-radius:20px;
+  margin: auto;
+
+}
+.mas img, .fem img {
+display: inline-block;
+ border-radius:150px;
+ margin: auto;
+
+}
+.p1 img,.p2 img,.p3 img,.p4 img,.p5 img,.p6 img{
+ display: block;
+  margin: auto;
+  border-radius:100px;
+
+
+}
+p{
+    font-size: 20PX;
+    text-align:center;
+    background-color: bisque;
+
+}
+.vol img, .vol2 img{
+
+   border-radius:150px;
+   display: block;
+  margin: auto;
+
+}
+.retangulo {
+ width: 100px;
+ height: 100px;
+ background-color:bisque;
+ translate: 1150px 300px;
+ border-radius:150px;
+
+
+}
+
