@@ -1,0 +1,79 @@
+
+
+#imgbaner{
+
+	margin-left: 10px;
+	
+	
+
+
+}
+h1{
+	text-align:center;
+	color: #eae3b8;
+	
+	
+	
+	
+}
+h2{
+	color:#800020;
+	background-color:#eae3b8;
+	
+}
+
+body{
+	
+	background-color: #800020;
+	
+	
+	
+	
+	
+}
+ul{
+	list-style:none;
+	margin:5px;
+	padding:5px;
+	display:flex;
+	gap:150px;
+	color: #eae3b8  ;
+	
+	
+	
+}
+#paes{
+		display:flex;
+		gap:10px;
+		margin:5px;
+	    padding:5px;
+		
+	
+}
+img{
+	
+	border-radius:10px;
+	
+	
+	
+	
+}
+.divpaes{
+		
+		
+	
+}
+.divbolos{
+	
+	
+#bolos{
+	
+	display:flex;
+		gap:10px;
+		margin:5px;
+	    padding:5px;
+	
+	
+	
+	
+}
